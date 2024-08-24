@@ -1,3 +1,21 @@
+## Travel Site UI/UX
+
+This is a UI/UX project for storing reusable nextjs components for future fullstack applications.
+
+### Sample Images
+
+<img src="./screenshots/image1.jpg">
+
+<img src="./screenshots/image2.jpg">
+
+<img src="./screenshots/image3.jpg">
+
+<img src="./screenshots/image4.jpg">
+
+<img src="./screenshots/image5.jpg">
+
+### Default Description
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
